@@ -2,7 +2,7 @@
 An AI-generated comic book built with Stable Diffusion XL, Python, and perfectly locked character consistency.
 # 🦸‍♂️ Zain and the Power of Kindness: AI Comic Book
 
-An end-to-end Python pipeline for generating a highly consistent, 7-page comic book using **Stable Diffusion XL 1.0 (SDXL)**. 
+An end-to-end Python pipeline for generating a highly consistent, 14-panel comic book using **Stable Diffusion XL 1.0 (SDXL)**. 
 
 This project solves the common AI issue of "character morphing" by engineering highly optimized, comma-separated token prompts and locking seeds to maintain strict visual consistency for the characters and environments.
 
