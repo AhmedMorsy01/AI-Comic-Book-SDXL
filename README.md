@@ -16,7 +16,7 @@ This project solves the common AI issue of "character morphing" by engineering h
 
 ## 📂 Repository Contents
 * `zain_comic_book.ipynb`: The complete Google Colab codebase (Model loading, token validation, image generation, and PDF compilation).
-* `Zain_Comic_Book.pdf`: The final, compiled 14-page comic book.
+* `Zain_Comic_Book.pdf`: The final, compiled 14-Panel comic book.
 * `clip_scores.csv`: The mathematical evaluation of prompt-to-image alignment.
 
 ## 🚀 How to Run
